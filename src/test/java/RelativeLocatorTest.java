@@ -18,6 +18,8 @@ public class RelativeLocatorTest {
 	  System.out.println(ss);
 			  
 	  System.out.println("Siddhant");
+
+	  System.out.println("Simant");
 	  
   }
 }
