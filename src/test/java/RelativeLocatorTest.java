@@ -17,6 +17,7 @@ public class RelativeLocatorTest {
 	  String ss=dr.findElement(with(By.tagName("li")).toLeftOf(By.id("pid6")).below(By.id("pid1"))).getDomAttribute("id");
 	  System.out.println(ss);
 			  
+	  System.out.println("Siddhant");
 	  
   }
 }
